@@ -1,3 +1,4 @@
+![logo](https://github.com/AaronDamian502/aarondamian502/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aaron Damian</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
